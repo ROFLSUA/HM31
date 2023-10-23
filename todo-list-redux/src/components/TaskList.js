@@ -1,4 +1,3 @@
-// src/components/TaskList.js
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { deleteTask, toggleTask, editTask } from '../redux/actions';
